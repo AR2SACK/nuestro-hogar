@@ -1,0 +1,26 @@
+NUESTRO HOGAR — Calculadora de vida en pareja
+================================================
+
+1. CONSULTAR SIN PUBLICAR
+Abre el archivo index.html en un navegador moderno. Si el navegador permite el
+almacenamiento local para archivos, los cambios quedarán guardados en ese equipo.
+También puedes usar el archivo individual calculadora_vida_en_pareja.html.
+
+2. PUBLICAR COMO WEB APP (GITHUB PAGES)
+- Crea un repositorio público en GitHub, por ejemplo "nuestro-hogar".
+- Sube index.html, manifest.webmanifest, sw.js y la carpeta icons.
+- Ve a Settings > Pages > Build and deployment.
+- Selecciona Deploy from a branch, rama main y carpeta /(root). Guarda.
+- GitHub indicará la dirección de tu web app después del despliegue.
+- En el iPhone: abre la dirección en Safari > Compartir > Agregar a pantalla de inicio.
+
+3. GUARDAR Y TRANSFERIR
+La app guarda automáticamente escenarios y cantidades en el almacenamiento LOCAL
+del navegador. No sincroniza datos entre diferentes dispositivos. Para mover tu
+presupuesto, entra a Escenarios > Descargar respaldo JSON y luego importa dicho
+archivo en la otra computadora o teléfono.
+
+4. IMPORTANTE
+Los importes iniciales son estimaciones modificables; todos los salarios son netos.
+No incluyas información bancaria, contraseñas ni datos identificativos en las notas
+o archivos de respaldo. Los respaldos contienen tus cifras presupuestarias.
